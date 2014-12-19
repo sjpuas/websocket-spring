@@ -55,7 +55,6 @@
     <div class="row" style="margin-top:10px;">
         <div class="col-xs-7"><input type="text" id="txtMessage" class="form-control" placeholder="Type your message here."/></div>
         <div class="col-xs-2"><button id="btnSend" class="btn btn-primary" style="width:100%;">Send</button></div>
-        <div class="col-xs-3" style="text-align: right; margin-top:15px;"><small><a href="https://twitter.com/hsilomedus">hsilomedus</a></small></div>
     </div>
 </div>
 
